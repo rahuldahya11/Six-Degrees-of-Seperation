@@ -4,7 +4,7 @@
 Six degrees of separation is the idea that all people on Earth are six, or fewer, social connections away from each other. Also known as the 6 Handshakes rule. As a result, a chain of "a friend of a friend" statements can be made to connect any two people in a maximum of six steps.
 
 ## About this Project
-Six Degrees of Kevin Bacon or "Bacon's Law" is a parlor game based on "six degrees of seperation" concept, which posits that any two people on Earth are six or fewer acquaintance links apart. Bacon's Law rests on the assumption that anyone involved in the Hollywood film industry can be linked through their film roles to Bacon within six steps. The challenge is to find the sortest path between any two arbitrary actors/actresses using the breadth-first search method.
+Six Degrees of Kevin Bacon or "Bacon's Law" is a parlor game based on "six degrees of sepearation" concept, which posits that any two people on Earth are six or fewer acquaintance links apart. Bacon's Law rests on the assumption that anyone involved in the Hollywood film industry can be linked through their film roles to Bacon within six steps. The challenge is to find the sortest path between any two arbitrary actors/actresses using the breadth-first search method.
 
 ## Data
 The data is from an IMDB database that contains three different data sets. The first dataset(movies.csv) being the move name along with its movie identification number. The second dataset (people.csv) contains the actors/actresses name along with their identification number. The third dataset (stars.csv) establishes a relationship between the people and the movies.
